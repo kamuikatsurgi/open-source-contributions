@@ -2,12 +2,12 @@
 
 ## 💻 Code Contributions
 
-| Repository                                                                        | Contribution                                                             |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [foundry-rs/foundry](https://github.com/foundry-rs/foundry)                       | PR [#7369](https://github.com/foundry-rs/foundry/pull/7369)              |
-| [sigp/lighthouse](https://github.com/sigp/lighthouse)                             | PR [#5318](https://github.com/sigp/lighthouse/pull/5318)                 |
-| [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | PR [#11908](https://github.com/ethereum/ethereum-org-website/pull/11908) |
-| [0xPolygon/storage-delta](https://github.com/0xPolygon/storage-delta)             | PR [#14](https://github.com/0xPolygon/storage-delta/pull/14)             |
+| Repository                                                                        | Contribution                                                                                                            |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [foundry-rs/foundry](https://github.com/foundry-rs/foundry)                       | PRs [#7369](https://github.com/foundry-rs/foundry/pull/7369) & [#7389](https://github.com/foundry-rs/foundry/pull/7389) |
+| [sigp/lighthouse](https://github.com/sigp/lighthouse)                             | PR [#5318](https://github.com/sigp/lighthouse/pull/5318)                                                                |
+| [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | PR [#11908](https://github.com/ethereum/ethereum-org-website/pull/11908)                                                |
+| [0xPolygon/storage-delta](https://github.com/0xPolygon/storage-delta)             | PR [#14](https://github.com/0xPolygon/storage-delta/pull/14)                                                            |
 
 ## 📝 Documentation Contributions
 
