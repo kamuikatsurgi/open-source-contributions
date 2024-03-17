@@ -13,6 +13,6 @@
 
 | Repository                                                                                                      | Contribution                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| [foundry-rs/book](https://github.com/foundry-rs/book)                                                           | PRs [#1129](https://github.com/foundry-rs/book/pull/1129) & [#1128](https://github.com/foundry-rs/book/pull/1128) |
+| [foundry-rs/book](https://github.com/foundry-rs/book)                                                           | PRs [#1128](https://github.com/foundry-rs/book/pull/1128) & [#1129](https://github.com/foundry-rs/book/pull/1129) |
 | [ethereum-push-notification-service/push-dapp](https://github.com/ethereum-push-notification-service/push-dapp) | PR [#1394](https://github.com/ethereum-push-notification-service/push-dapp/pull/1394)                             |
 | [Cyfrin/Updraft](https://github.com/Cyfrin/Updraft)                                                             | PR [#55](https://github.com/Cyfrin/Updraft/pull/55)                                                               |
