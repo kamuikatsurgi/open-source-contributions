@@ -39,6 +39,15 @@
 </details>
 
 <details>
+<summary><a href="https://github.com/cowprotocol/contracts">cowprotocol/contracts</a></summary>
+
+- PR [#154](https://github.com/cowprotocol/contracts/pull/154)
+- PR [#156](https://github.com/cowprotocol/contracts/pull/156)
+
+</details>
+
+
+<details>
 <summary><a href="https://github.com/smartcontractkit/ccip-starter-kit-foundry">smartcontractkit/ccip-starter-kit-foundry</a></summary>
 
 - PR [#12](https://github.com/smartcontractkit/ccip-starter-kit-foundry/pull/12)
