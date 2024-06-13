@@ -28,6 +28,8 @@
 <summary><a href="https://github.com/paradigmxyz/reth">paradigmxyz/reth</a></summary>
 
 - PR [#7314](https://github.com/paradigmxyz/reth/pull/7314)
+- PR [#8698](https://github.com/paradigmxyz/reth/pull/8698)
+- PR [#8718](https://github.com/paradigmxyz/reth/pull/8718)
 
 </details>
 
