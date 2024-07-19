@@ -30,6 +30,9 @@
 - PR [#7314](https://github.com/paradigmxyz/reth/pull/7314)
 - PR [#8698](https://github.com/paradigmxyz/reth/pull/8698)
 - PR [#8718](https://github.com/paradigmxyz/reth/pull/8718)
+- PR [#8877](https://github.com/paradigmxyz/reth/pull/8877)
+- PR [#8914](https://github.com/paradigmxyz/reth/pull/8914)
+- PR [#9301](https://github.com/paradigmxyz/reth/pull/9301)
 
 </details>
 
